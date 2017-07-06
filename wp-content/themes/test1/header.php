@@ -6,7 +6,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
- * @package test1
+ * @package test1sdsffvxcvx
  */
 
 ?><!doctype html>
